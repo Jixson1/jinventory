@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Jixson1/jinventory"
 	},
 	"license": "MIT",
 	"icon": "assets/jinventory/icon.png",
